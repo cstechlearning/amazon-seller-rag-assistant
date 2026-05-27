@@ -104,13 +104,13 @@ vector database.
 Realistic Startup Constraints
 
 This project intentionally avoids:
-training custom LLMs
-giant distributed ML infra
+training custom LLMs,
+giant distributed ML infra,
 unrealistic GPU clusters
 
 Instead:
-open-source tooling
-managed APIs
+open-source tooling,
+managed APIs,
 cost-effective stack
 
 what startups do.
@@ -140,36 +140,36 @@ OpenAI API
 Seller Insights
 
 #### Features
-Semantic review search
-AI-generated seller insights
-RAG pipeline
-Spring Boot microservices
-pgvector similarity search
+Semantic review search,
+AI-generated seller insights,
+RAG pipeline,
+Spring Boot microservices,
+pgvector similarity search,
 OpenAI integration
 
 ##### Future Improvements Details
 
 ###### Phase 2
-Redis caching
-async ingestion jobs
-Kafka event pipeline
-review sentiment analysis
-review summarization
+Redis caching,
+async ingestion jobs,
+Kafka event pipeline,
+review sentiment analysis,
+review summarization,
 dashboard UI
 
 ###### Phase 3
-hybrid keyword + vector search
-metadata filtering
-streaming responses
-multi-tenant seller support
+hybrid keyword + vector search,
+metadata filtering,
+streaming responses,
+multi-tenant seller support,
 observability / tracing
 
 #### Positioning
 This project positions tech as:
 
-Backend Engineer with AI integration experience
-Applied AI Engineer
-AI Platform Engineer
+Backend Engineer with AI integration experience,
+Applied AI Engineer,
+AI Platform Engineer,
 RAG / LLM Infrastructure Engineer
 
 NOT:
