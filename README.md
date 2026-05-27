@@ -78,13 +78,17 @@ Why are customers unhappy with my product?"
 ```
 
 Example Retrieved Reviews
+```
 - Battery drains too quickly
 - Charging cable stopped working after 3 days
 - Product overheats during use
+```
 
 Example Generated Response
+```
 The most common customer complaints are related to battery life and charging reliability.
 Customers also mention overheating issues, which may negatively impact product ratings and conversion rates.
+```
 
 ## 5. Project Inside [Senior-Level]
 Uses:
