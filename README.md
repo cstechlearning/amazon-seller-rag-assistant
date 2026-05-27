@@ -73,7 +73,8 @@ amazon-seller-rag-assistant/
 
 Run:
 ```
-curl "http://localhost:8080/api/insights?question=Why are customers unhappy with my product?"
+curl "http://localhost:8080/api/insights?question=
+Why are customers unhappy with my product?"
 ```
 
 Example Retrieved Reviews
