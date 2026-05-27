@@ -93,12 +93,12 @@ Customers also mention overheating issues, which may negatively impact product r
 ## 5. Project Inside [Senior-Level]
 Uses:
 
-retrieval pipeline
-embeddings
-semantic search
-prompt augmentation
-OpenAI integration
-vector database
+retrieval pipeline,
+embeddings,
+semantic search,
+prompt augmentation,
+OpenAI integration,
+vector database.
 
 
 Realistic Startup Constraints
