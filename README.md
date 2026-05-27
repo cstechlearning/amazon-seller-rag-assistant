@@ -1,7 +1,7 @@
 # amazon-seller-rag-assistant
 A Java/Spring Boot RAG project for a small AI startup serving Amazon sellers.
 
-1. Project Goal
+## 1. Project Goal
 
 This project is a lightweight Retrieval-Augmented Generation (RAG) platform used by an Amazon seller analytics startup.
 
@@ -14,7 +14,7 @@ performs semantic retrieval
 augments prompts with retrieved reviews
 generates AI-powered seller insights using OpenAI APIs
 
-2. Tech Stack
+## 2. Tech Stack
 
 Backend
 - Java 21
@@ -33,8 +33,9 @@ Infra
 - Docker
 - Docker Compose
 
-3. Repo Structure
+## 3. Repo Structure
 
+```text
 amazon-seller-rag-assistant/
 │
 ├── README.md
@@ -66,3 +67,4 @@ amazon-seller-rag-assistant/
 └── src/main/resources/
     ├── application.yml
     └── schema.sql
+```
