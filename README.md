@@ -117,16 +117,22 @@ what startups do.
 
 Amazon Reviews
       ↓
+
 Embeddings
       ↓
+
 pgvector
       ↓
+
 Semantic Retrieval
       ↓
+
 Prompt Augmentation
       ↓
+
 OpenAI API
       ↓
+
 Seller Insights
 
 #### Features
@@ -137,16 +143,17 @@ Spring Boot microservices
 pgvector similarity search
 OpenAI integration
 
-Future Improvements Details
+##### Future Improvements Details
 
-Phase 2
+###### Phase 2
 Redis caching
 async ingestion jobs
 Kafka event pipeline
 review sentiment analysis
 review summarization
 dashboard UI
-Phase 3
+
+###### Phase 3
 hybrid keyword + vector search
 metadata filtering
 streaming responses
